@@ -4466,6 +4466,7 @@ COPY erc20.tokens (contract_address, symbol, decimals) FROM stdin;
 \\xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd	SSN	18
 \\x624d520bab2e4ad83935fa503fb130614374e850	SSP	4
 \\x2863916c6ebdbbf0c6f02f87b7eb478509299868	SST	18
+\\x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54	SSV	18
 \\x6936f1dcd8c2e3a69469311a130858174f9f0a15	SSWIM	9
 \\x06874f973dc3c96dc22a10ef0d0609f877f335ea	STA	18
 \\xa7de087329bfcda5639247f96140f9dabe3deed1	STA	18
@@ -5696,6 +5697,7 @@ COPY erc20.tokens (contract_address, symbol, decimals) FROM stdin;
 \\xf974b5f9ac9c6632fee8b76c61b0242ce69c839d	ZYX	18
 \\xc75f15ada581219c95485c578e124df3985e4ce0	ZZZ	18
 \\x93ed140172ff226dad1f7f3650489b8daa07ae7f	ZZZV2	18
+
 \.
 
 
